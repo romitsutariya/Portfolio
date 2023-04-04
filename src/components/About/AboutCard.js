@@ -10,14 +10,14 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Romit Sutariya </span>
             from <span className="purple"> Gandhinagar, India.</span>
-            <br />I'm Backend Engineer.
+            <br />I'm Backend Engineer with a demonstrated history of working in the information technology and services industry
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Exploring New Technologies
             </li>
             <li className="about-activity">
               <ImPointRight /> Writing Tech Blogs
